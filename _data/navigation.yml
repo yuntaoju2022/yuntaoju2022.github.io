@@ -2,10 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
+    
+  - title: "Member"
+    url: /member/
+    
   - title: "Teaching"
     url: /teaching/    
     
@@ -15,8 +15,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Talks"
+    url: /talks/    
+
     
   - title: "Guide"
     url: /markdown/
