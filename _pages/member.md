@@ -1,8 +1,7 @@
 ---
 layout: archive
 title: "实验室成员
-======
- 目前的研究人员和学生 @SESLab"
+"
 permalink: /member/
 author_profile: true
 redirect_from:
@@ -10,6 +9,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+ 目前的研究人员和学生 @SESLab
+======
 
 研究科学家
 ======
