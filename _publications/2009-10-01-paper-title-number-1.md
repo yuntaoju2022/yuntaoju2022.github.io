@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "电动农机发展现状与趋势"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '文章重点阐述国内外电动化农机发展的研究进展，分析典型电动农机发展趋向。在系统总结和分析我国农机国情特点和发展趋势的基础上，指出现阶段我国电动农机技术发展难点，并提出小型化、自动化、智能化是电动农机的研究重点，为我国电动农机发展提供参考.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: '王杰. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
