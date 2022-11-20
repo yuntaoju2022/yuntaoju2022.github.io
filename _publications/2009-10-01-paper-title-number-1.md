@@ -12,4 +12,4 @@ citation: '王杰. (2019). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: 王杰. (2019). "电动农机发展现状与趋势." <i>Journal 1</i>. 1(1).
+Recommended citation: 王杰. (2019). "电动农机." <i>Journal 1</i>. 1(1).
