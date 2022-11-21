@@ -1,10 +1,10 @@
 ---
 title: "动态电力系统"
 collection: teaching
-type: "Workshop"
+type: "研究生课程"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "中国农业大学, 电气工程"
+date: 2022-01-01
 location: "City, Country"
 ---
 
