@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "动态电力系统"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
