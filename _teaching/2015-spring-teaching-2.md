@@ -8,7 +8,7 @@ date: 2022-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Modelica是一种开放、面向对象、基于方程的计算机语言，可以跨越不同领域，方便地实现复杂物理系统的建模，包括：机械、电子、电力、液压、热、控制及面向过程的子系统模型。
 
 
 B站教学视频
