@@ -8,7 +8,7 @@ venue: 'May 1'
 paperurl: 'http://yuntaoju2022.github.io/files/123.pdf'
 citation: '某某某. (2019). &quot;电机工程学报.&quot; <i>Journal 1</i>. 1(1).'
 ---
-文章重点阐述国内外电热耦合发展的研究进展
+文章重点阐述国内外电热耦合发展的研究进展.
 
 [Download paper here](http://yuntaoju2022.github.io/files/123.pdf)
 
