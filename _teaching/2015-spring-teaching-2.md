@@ -10,11 +10,12 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
+B站教学视频
 ======
+[Modelica介绍](https://www.bilibili.com/video/BV1ie4y1J7vP/?spm_id_from=333.999.0.0)
 
-Heading 3
+B站教学视频
 ======
+[Modelica面向对象部分](https://www.bilibili.com/video/BV1Pd4y1B7oz/?spm_id_from=333.999.0.0&vd_source=f77db770e55414424869379bea6cee38)
+
