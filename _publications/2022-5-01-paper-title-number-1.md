@@ -12,4 +12,4 @@ citation: '某某某. (2019). &quot;电机工程学报.&quot; <i>Journal 1</i>. 
 
 [Download paper here](http://yuntaoju2022.github.io/files/123.pdf)
 
-Recommended citation: 某某某. (2022). "电机工程学报." <i>May 1</i>. 1(1).
+Recommended citation: 某某某. (2022). "Optimal Power Flow of Distribution Network Considering Comprehensive Flexibility Resources." <i>May 1</i>. 1(1).
