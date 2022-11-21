@@ -83,7 +83,7 @@ author:
   name             : "Smart Energy System Laboratory"
   avatar           : "profile.png"
   bio              : "bring low carbon energy solutions to the world"
-  location         : "<i>北京"
+  location         : <i>"北京"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
