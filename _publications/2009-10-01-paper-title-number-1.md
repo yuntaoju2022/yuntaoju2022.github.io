@@ -13,3 +13,4 @@ citation: '王杰. (2019). &quot;电动农机.&quot; <i>Journal 1</i>. 1(1).'
 [Download paper here](http://yuntaoju2022.github.io/files/paper1.pdf)
 
 Recommended citation: 王杰. (2019). "电动农机." <i>Journal 1</i>. 1(1).
+
