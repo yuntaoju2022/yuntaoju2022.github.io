@@ -14,6 +14,7 @@ redirect_from:
 ======
 <br/><img src='/images/OIP.jpg'>
 <br/><img src='/images/OIP.jpg'>
+
 研究科学家
 ======
 * 巨云涛： 致力于主动配电网建模、仿真、分析与优化控制；高比例可再生能源电力系统分布自律-集中协调优化控制。
