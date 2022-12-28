@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2014--paper-title-number-1
 excerpt: '摘要.'
 date: 2014
-#venue: 'Journal 1'
-#paperurl: 'http://yuntaoju2022.github.io/files/paper1.pdf'
+venue: 'Journal 1'
+paperurl: 'http://yuntaoju2022.github.io/files/paper1.pdf'
 citation: 'Yuntao Ju;Wenchuan Wu;Boming Zhang;Hongbin Sun. (2014). &quot;IEEE Transactions on Smart Grid.&quot; .'
 ---
 摘要.
