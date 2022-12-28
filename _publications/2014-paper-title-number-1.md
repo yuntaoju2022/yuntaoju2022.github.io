@@ -3,7 +3,7 @@ title: "An Extension of FBS Three-Phase Power Flow for Handling PV Nodes in Acti
 collection: publications
 permalink: /publication/2014-paper-title-number-1
 
-excerpt: '111.'
+excerpt: '111Forward/backward sweep power flow (FBS) is widely used in distribution network analysis because it is very efficient for radial and weakly meshed networks. In these types of methods, .'
 
 date: 2014-07-01
 venue: 'July 1'
