@@ -13,3 +13,4 @@ redirect_from:
 
 
 [B站介绍]（https://space.bilibili.com/2066261608）
+[同步发电机电磁暂态模型](https://space.bilibili.com/2066261608/?spm_id_from=333.999.0.0)
