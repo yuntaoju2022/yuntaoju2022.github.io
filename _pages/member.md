@@ -12,8 +12,7 @@ redirect_from:
 
  目前的研究人员和学生 @SESLab
 ======
-<br/><img src='/images/OIP.jpg'>
-<br/><img src='/images/OIP.jpg'>
+
 
 研究科学家
 ======
@@ -32,6 +31,6 @@ redirect_from:
 * 某某某
 * 某某某
 
-<br/><img src='/images/OIP.jpg'>
+
 
 
