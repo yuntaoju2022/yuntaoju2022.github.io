@@ -6,10 +6,10 @@ excerpt: '摘要.'
 date: 2014
 venue: 'Journal 1'
 paperurl: 'http://yuntaoju2022.github.io/files/paper1.pdf'
-citation: 'Yuntao Ju;Wenchuan Wu;Boming Zhang;Hongbin Sun. (2014). &quot;IEEE Transactions on Smart Grid.&quot; .'
+citation: 'Yuntao Ju;Wenchuan Wu;Boming Zhang;Hongbin Sun. (2014). &quot;IEEE Transactions on Smart Grid.&quot;<i>Journal 1</i>. 1(1) .'
 ---
 摘要.
 
 [Download paper here](http://yuntaoju2022.github.io)
 
-Recommended citation: Yuntao Ju;Wenchuan Wu;Boming Zhang;Hongbin Sun. (2014). &quot;IEEE Transactions on Smart Grid.&quot; .
+Recommended citation: Yuntao Ju;Wenchuan Wu;Boming Zhang;Hongbin Sun. (2014). “IEEE Transactions on Smart Grid” <i>Journal 1</i>. 1(1).
