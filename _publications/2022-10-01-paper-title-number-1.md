@@ -12,5 +12,5 @@ citation: 'XX. (2022). &quot;XX.&quot; <i>Journal 1</i>. 1(1).'
 
 [Download paper here](http://yuntaoju2022.github.io/files/paper1.pdf)
 
-Recommended citation: XX. (2019). "XXXX." <i>Journal 1</i>. 1(1).
+Recommended citation: XX. (2022). "XXXX." <i>Journal 1</i>. 1(1).
 
