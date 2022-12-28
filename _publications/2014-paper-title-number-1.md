@@ -7,7 +7,7 @@ excerpt: 'Forward/backward sweep power flow (FBS) is widely used in distribution
 
 date: 2014-07-01
 venue: 'July 1'
-#paperurl: 'http://yuntaoju2022.github.io/files/paper1.pdf'
+paperurl: 'http://yuntaoju2022.github.io/files/paper1.pdf'
 citation: 'Yuntao Ju;Wenchuan Wu;Boming Zhang;Hongbin Sun. (2022). &quot;IEEE Transactions on Smart Grid.&quot; <i>July 1</i>. 1(1).'
 ---
 
