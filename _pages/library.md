@@ -6,7 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-详细书单
+[详细书单](http://yuntaoju2022.github.io/files/书单-2023-01-10.pdf)
+
+
+
 1	电力系统基础相关
 ======
 * 电力系统百科全书
