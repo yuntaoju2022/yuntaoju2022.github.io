@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+详细书单
 1	电力系统基础相关
 ======
 * 电力系统百科全书
