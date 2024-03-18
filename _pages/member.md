@@ -19,31 +19,24 @@ redirect_from:
 * 巨云涛：教授，198511，男，中共党员，汉族，致力于主动配电网建模、仿真、分析与优化控制；高比例可再生能源电力系统分布自律-集中协调优化控制。
 * 讲授本科生课程《电机学》、《电机学实验》、《电机与拖动基础》；硕士研究生课程《动态电力系统》等课程。
 <table class="tg">
-<thead>
   <tr>
     <th class="tg-0pky">学历</th>
     <th class="tg-0pky">博士研究生</th>
     <th class="tg-0pky">授予单位</th>
     <th class="tg-0pky">清华大学</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky">专业</td>
     <td class="tg-0pky">电气工程</td>
     <td class="tg-0pky">参加工作时间</td>
     <td class="tg-0pky">201307</td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky">职务</td>
     <td class="tg-0pky">实验中心主任，副处长</td>
     <td class="tg-0pky">职称</td>
     <td class="tg-0pky">教授</td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-0pky">电话</td>
     <td class="tg-0pky">15313727299</td>
