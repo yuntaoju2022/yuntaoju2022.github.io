@@ -47,12 +47,11 @@ redirect_from:
 <thead>
   <tr>
     <th class="tg-0pky">个人简介</th>
-    <th class="tg-0pky">北方工业大学电气与控制工程学院教授，清华四川能源互联网研究院副所长，清华大学深圳国际研究生院校外导师，兼任IEEE会员，能源互联网专委会委员，中国电机工程学会会员，运筹学学会高级会员，IEEE Smart Buildings-Loads-Customer Systems technical committee 委员，IEEE Transactions on Smart Grid，IEEE Transactions on Power System， IET GTD，IET RPG，IJEPE， International Transactions on Electrical Energy Systems，Electric Power Components and Systems等SCI刊物审稿人。主要研究方向：高比例可再生能源系统的分布自律-集中协同的稳定分析与优化调控技术。主持国家级项目3项、省部级教改项目2项、博士后一等资助1项、国家重点实验室开放基金项目6项、北京市重点实验室开放课题1项、国家电网公司科技项目30余项；合作编写专著1部，发表SCI、EI论文40余篇；获得了中国电力科学进步一等奖，国家电网公司科技进步二等奖，中国电机工程学会期刊优秀论文三等奖、国网冀北电力有限公司科技进步一等奖、2019年EI2最佳会议论文、2021年度中国电力科学技术进步奖三等奖、2021年度福建省科学技术进步奖二等奖等奖项。</th>
+    <td class="tg-0pky">北方工业大学电气与控制工程学院教授，清华四川能源互联网研究院副所长，清华大学深圳国际研究生院校外导师，兼任IEEE会员，能源互联网专委会委员，中国电机工程学会会员，运筹学学会高级会员，IEEE Smart Buildings-Loads-Customer Systems technical committee 委员，IEEE Transactions on Smart Grid，IEEE Transactions on Power System， IET GTD，IET RPG，IJEPE， International Transactions on Electrical Energy Systems，Electric Power Components and Systems等SCI刊物审稿人。主要研究方向：高比例可再生能源系统的分布自律-集中协同的稳定分析与优化调控技术。主持国家级项目3项、省部级教改项目2项、博士后一等资助1项、国家重点实验室开放基金项目6项、北京市重点实验室开放课题1项、国家电网公司科技项目30余项；合作编写专著1部，发表SCI、EI论文40余篇；获得了中国电力科学进步一等奖，国家电网公司科技进步二等奖，中国电机工程学会期刊优秀论文三等奖、国网冀北电力有限公司科技进步一等奖、2019年EI2最佳会议论文、2021年度中国电力科学技术进步奖三等奖、2021年度福建省科学技术进步奖二等奖等奖项。</td>
   </tr>
 
-* 主要学习经历（本科开始）
 <table class="tg">
-<thead>
+  <caption>主要学习经历（本科开始）</caption>
   <tr>
     <th class="tg-0pky">起止时间</th>
     <th class="tg-0pky">学习单位</th>
@@ -75,8 +74,9 @@ redirect_from:
 </thead>
 </tbody>
 </table>
-*主要工作经历（本科开始）
+
 <table class="tg">
+   <caption>主要工作经历（本科开始）</caption>
 <thead>
   <tr>
     <th class="tg-0pky">起止时间</th>
@@ -112,8 +112,9 @@ redirect_from:
 </thead>
 </tbody>
 </table>
-*荣誉成果
+
 <table class="tg">
+  <caption>荣誉成果</caption>
 <thead>
   <tr>
     <th class="tg-0pky">项目名称</th>
@@ -196,8 +197,9 @@ redirect_from:
 </thead>
 </tbody>
 </table>
-* 主编论著情况
+
 <table class="tg">
+  <caption>主编论著情况</caption>
 <thead>
   <tr>
     <th class="tg-0pky">专著名称</th>
@@ -214,8 +216,9 @@ redirect_from:
   </thead>
 </tbody>
 </table>
-* 科研项目
+
 <table class="tg">
+  <caption>科研项目</caption>
 <thead>
   <tr>
     <th class="tg-0pky">项目名称</th>
