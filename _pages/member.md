@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "实验室成员
+title: "团队成员
 "
 permalink: /member/
 author_profile: true
@@ -10,20 +10,22 @@ redirect_from:
 
 {% include base_path %}
 
- 目前的研究人员和学生 @SESLab
+ 目前的研究人员和学生
 ======
 
 
 研究科学家
 ======
-* 巨云涛：教授，198511，男，中共党员，汉族，致力于主动配电网建模、仿真、分析与优化控制；高比例可再生能源电力系统分布自律-集中协调优化控制。曾经讲授本科生课程《电机学》、《电机学实验》、《电机与拖动基础》；硕士研究生课程《动态电力系统》等课程。
+* 巨云涛：北方工业大学电气与控制工程学院教授，清华四川能源互联网研究院副所长，清华大学深圳国际研究生院校外导师，兼任IEEE会员，能源互联网专委会委员，中国电机工程学会会员，运筹学学会高级会员，IEEE Smart Buildings-Loads-Customer Systems technical committee 委员，IEEE Transactions on Smart Grid，IEEE Transactions on Power System， IET GTD，IET RPG，IJEPE， International Transactions on Electrical Energy Systems，Electric Power Components and Systems等SCI刊物审稿人。主要研究方向：高比例可再生能源系统的分布自律-集中协同的稳定分析与优化调控技术。主持国家级项目3项、省部级教改项目2项、博士后一等资助1项、国家重点实验室开放基金项目6项、北京市重点实验室开放课题1项、国家电网公司科技项目30余项；合作编写专著1部，发表SCI、EI论文40余篇；获得了中国电力科学进步一等奖，国家电网公司科技进步二等奖，中国电机工程学会期刊优秀论文三等奖、国网冀北电力有限公司科技进步一等奖、2019年EI2最佳会议论文、2021年度中国电力科学技术进步奖三等奖、2021年度福建省科学技术进步奖二等奖等奖项。致力于主动配电网建模、仿真、分析与优化控制；高比例可再生能源电力系统分布自律-集中协调优化控制。
 <table class="tg">
+<thead>
   <tr>
     <th class="tg-0pky">学历</th>
     <th class="tg-0pky">博士研究生</th>
     <th class="tg-0pky">授予单位</th>
     <th class="tg-0pky">清华大学</th>
   </tr>
+</thead>
   <tr>
     <td class="tg-0pky">专业</td>
     <td class="tg-0pky">电气工程</td>
