@@ -13,7 +13,7 @@ redirect_from:
 教研系列
 ======
 <h2>巨云涛</h2>
-<br/><img src='/images/巨云涛.png'>
+<br/><img src='/images/张晋奇.jpg'>
 清华大学博士，教授。
 * 电子邮箱：juyuntaomail@163.com
 *[个人简介](https://www.overleaf.com/project/65f9a1a94b49e7e7f5a8468a)
