@@ -18,8 +18,8 @@ redirect_from:
 * 电子邮箱：juyuntaomail@163.com
 *[个人简介](https://www.overleaf.com/project/65f9a1a94b49e7e7f5a8468a)
 
-* 孟庆海
-<br/><img src='/images/juyuntao.png'>
+<h2>孟庆海</h2>
+<br/><img src='/images/孟庆海.png'>
 * 个人简介：中国矿业大学博士，北方工业大学电气与控制工程学院研究员。
 * 主要研究方向：智能传感、储能安全、防爆电气安全技术。
 * 电子邮箱：mengqinghai@ncut.edu.cn
