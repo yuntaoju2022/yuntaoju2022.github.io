@@ -16,7 +16,7 @@ redirect_from:
 <br/><img src='/images/juyuntao.png'>
 清华大学博士，教授。
 * 电子邮箱：juyuntaomail@163.com
-*[个人简介](https://www.overleaf.com/project/65f9a1a94b49e7e7f5a8468a)
+*个人简介[Download paper here](http://yuntaoju2022.github.io/files/简历-巨.pdf)
 
 <h2>孟庆海</h2>
 <br/><img src='/images/孟庆海.png'>
